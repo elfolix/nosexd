@@ -6,11 +6,11 @@
 <h1 align="center">HOLA ADMON</h1>
  <hr />
   <h3>Que sos?</h3>
-  <input type="radio" name="gender" value="male"/> Masculino <br/ >
-  <input type="radio" name="gender" value="Yes"/> Si <br/ >
-  <input type="radio" name="gender" value="No"/> No <br/ >
-  <input type="radio" name="gender" value="No Se"/> No se <br/ >
-  <input type="radio" name="gender" value="depende del dia"/> Depende del dia <br/ >
+  <input type="radio" name="gender" value="male"/> Masculino 
+  <input type="radio" name="gender" value="Yes"/> Si 
+  <input type="radio" name="gender" value="No"/> No 
+  <input type="radio" name="gender" value="No Se"/> No se 
+  <input type="radio" name="gender" value="depende del dia"/> Depende del dia </br>
   <hr />
 <p>unas figuritas porque no</p>
  <hr />
