@@ -10,7 +10,7 @@
   <input type="radio" name="gender" value="Yes"/> Si 
   <input type="radio" name="gender" value="No"/> No 
   <input type="radio" name="gender" value="No Se"/> No se 
-  <input type="radio" name="gender" value="depende del dia"/> Depende del dia </br>
+  <input type="radio" name="gender" value="depende del dia"/> Depende del dia
   <hr />
 <p>unas figuritas porque no</p>
  <hr />
